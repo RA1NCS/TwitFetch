@@ -3,7 +3,7 @@ import requests
 # Common HTTP Parameters defines to avoid reusage
 global HTTP_PARAMETERS
 HTTP_PARAMETERS = {
-    "X-RapidAPI-Key": "73d82610b7msheaba598fed24841p1e0f71jsn6bfe6217691f",
+    "X-RapidAPI-Key": "YOUR RAPID API KEY HERE",
     "X-RapidAPI-Host": "twitter135.p.rapidapi.com",
 }
 
